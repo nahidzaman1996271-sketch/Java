@@ -15,6 +15,5 @@ public class operators {
         System.out.println(diff);
         System.out.println(mod);
 
-
     }
 }
