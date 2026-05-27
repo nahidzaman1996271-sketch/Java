@@ -15,3 +15,5 @@ public class do_while_loop {
   
     }
 }
+
+//in do while we write the conditions after the loops
